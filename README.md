@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0009-palindrome-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SheruTuljanReddy/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
